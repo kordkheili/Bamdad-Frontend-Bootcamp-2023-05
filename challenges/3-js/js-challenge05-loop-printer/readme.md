@@ -1,3 +1,5 @@
+/![](starter/ui.png)
+
 # print-loop
 
 ## شرح تمرین
