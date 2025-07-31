@@ -1,3 +1,6 @@
+![](starter/ui-1.png)
+![](starter/ui-2.png)
+
 # password strength checker
 
 1. هنگام اجرای صفحه یک مقدار به عنوان پسورد از کاربر دریافت شود
