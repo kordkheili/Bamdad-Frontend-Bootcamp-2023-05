@@ -1,3 +1,8 @@
+![](starter/ui-desktop.png)
+![](starter/ui-modal.png)
+![](starter/ui-tablet.png)
+![](starter/ui-mobile.png)
+
 ## 🔗 Links
 
 - [Figma UI Link](https://www.figma.com/file/biWLIt5vY865PMYvpsh5Ha/css-challenge-responsive?type=design&mode=design&t=oTnUmREGrSHqjjdI-1)
