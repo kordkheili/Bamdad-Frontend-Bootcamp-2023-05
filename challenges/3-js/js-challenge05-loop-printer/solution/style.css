@@ -1,0 +1,12 @@
+body {
+  font-family: Vazir, Tahoma;
+  margin: 2rem;
+}
+#output {
+  white-space: pre-line;
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin-top: 1rem;
+  direction: ltr; /* اعداد انگلیسی مرتب باشند */
+}
