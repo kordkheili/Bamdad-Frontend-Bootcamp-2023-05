@@ -1,7 +1,7 @@
-![](starter/ui-desktop.png)
-![](starter/ui-modal.png)
-![](starter/ui-tablet.png)
-![](starter/ui-mobile.png)
+<img src="starter/ui-desktop.png" style="max-height:300px;">
+<img src="starter/ui-modal.png" style="max-height:300px;">
+<img src="starter/ui-tablet.png" style="max-height:300px;">
+<img src="starter/ui-mobile.png" style="max-height:300px;">
 
 ## 🔗 Links
 
