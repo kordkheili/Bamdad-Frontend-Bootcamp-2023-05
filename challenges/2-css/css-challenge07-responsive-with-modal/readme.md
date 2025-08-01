@@ -1,8 +1,3 @@
-![](starter/ui-desktop.png)
-![](starter/ui-modal.png)
-![](starter/ui-tablet.png)
-![](starter/ui-mobile.png)
-
 ## 🔗 Links
 
 - [Figma UI Link](https://www.figma.com/file/biWLIt5vY865PMYvpsh5Ha/css-challenge-responsive?type=design&mode=design&t=oTnUmREGrSHqjjdI-1)
@@ -20,3 +15,8 @@
 > everything you needed are located in **_starter directory_**.  
 > so you can just download it and make some fun with that 😉  
 > good luck 😃
+
+![](starter/ui-desktop.png)
+![](starter/ui-modal.png)
+![](starter/ui-tablet.png)
+![](starter/ui-mobile.png)
